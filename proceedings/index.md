@@ -6,6 +6,8 @@ show_sidebar: false
 hide_footer: true
 ---
 
+## Proceedings
+
 Starting in 1995, the proceedings have been published in Springer's LNCS/LNAI series.
 
 <ul>

@@ -6,6 +6,8 @@ show_sidebar: false
 hide_footer: true
 ---
 
+## Previous Conferences 
+
 The International Conference on Automated Reasoning with Analytic Tableaux and
 Related Methods (TABLEAUX) has been held every year since 1992.
 

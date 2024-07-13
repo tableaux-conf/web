@@ -25,7 +25,7 @@ have been published in Springer's LNCS/LNAI series.
 
 ---
 
-# Aims and Topics
+## Aims and Topics
 
 The International Conference on Automated Reasoning with Analytic Tableaux and
 Related Methods (TABLEAUX) brings together researchers interested in all
@@ -42,5 +42,5 @@ Topics of interest include (but are not restricted to):
 * systems, tools, implementations and applications (e.g., verification)
 
 
-You can contact the members of the Steering Committee by [e-mail](mailto:sc@tableaux-ar.org). 
+_Contact_: You can contact the members of the Steering Committee by [e-mail](mailto:sc@tableaux-ar.org). 
 

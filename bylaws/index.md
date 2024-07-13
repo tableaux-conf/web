@@ -6,6 +6,8 @@ show_sidebar: false
 hide_footer: true
 ---
 
+## Bylaws 
+
 These rules were adopted at the Business Meeting at the TABLEAUX Conference in
 St. Andrews, July 6, 2000, and amended by email vote in January 2005 and by
 vote at the Business Meeting at TABLEAUX 2019.
