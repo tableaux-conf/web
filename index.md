@@ -23,4 +23,7 @@ and related methods.
 TABLEAUX has been held every year since 1992. Starting in 1995, the proceedings
 have been published in Springer's LNCS/LNAI series.
 
+---
+
+You can contact the members of the Steering Committee by [e-mail](mailto:sc@tableaux-ar.org). 
 
