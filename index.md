@@ -2,7 +2,7 @@
 layout: page
 title: TABLEAUX
 toc: false
-show_sidebar: true
+show_sidebar: false
 hide_footer: false
 ---
 
