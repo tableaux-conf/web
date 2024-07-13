@@ -6,8 +6,6 @@ show_sidebar: false
 hide_footer: false
 ---
 
-# International Conference on Automated Reasoning with Analytic Tableaux and Related Methods
-
 ## Welcome!
 
 Tableau methods have been found to be a convenient formalism for automating
