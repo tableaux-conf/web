@@ -1,0 +1,177 @@
+2023
+====
+- Marta Bílková, Czech Academy of Sciences, Czechia (joint with FroCoS)
+- Chad E. Brown, Czech Technical Universty in Prague, Czechia (joint with FroCoS)
+- Valentin Goranko, Stockholm University, Sweden (joint with FroCoS)
+- Rosalie Iemhoff, Utrecht University, Netherlands
+- Roman Kuznets, Technische Universität Wien, Austria
+
+2021
+====
+- Michael Benedikt (University of Oxford, UK). Joint with FroCoS.
+- Orna Kupferman (Hebrew University, Israel).
+- Revantha Ramanayake (University of Gröningen, The Netherlands).
+- Greg Restall (University of Melbourne, Australia / University of St Andrews, UK).
+- Renate Schmidt (University of Manchester, UK). Joint with FroCoS.
+
+2019
+====
+- Jeremy Avigad
+- Stéphane Graham-Lengrand and Sara Negri
+
+2017
+====
+- Carlos Areces (FaMAF - Universidad Nacional de Córdoba, Argentina)
+- Wolfgang Bibel (Technische Universität Darmstadt, Germany) (TABLEAUX anniversary session)
+- Jasmin Blanchette (Vrije Universiteit Amsterdam, The Netherlands) (TABLEAUX/FroCoS/ITP)
+- Katalin Bimbó (University of Alberta, Canada) (TABLEAUX/FroCoS/ITP)
+- Reiner Hähnle (Technische Universität Darmstadt, Germany) (TABLEAUX anniversary session)
+- Cezary Kaliszyk (Universität Innsbruck, Austria) (TABLEAUX/FroCoS/ITP)
+
+2015
+====
+- Christoph Benzmüller
+- Roy Dyckhoff
+- Oliver Ray
+
+2013
+====
+- Stéphane Demri (joint with FroCoS)
+- Sara Negri
+- Tobias Nipkow (and Andrei Popescu)
+
+2011
+====
+- Maria Paola Bonacina, Università degli Studi di Verona, Italy
+- Ulrich Furbach, University of Koblenz-Landau, Germany
+- Kazushige Terui, Kyoto University, Japan
+
+2009
+====
+- Patrick Blackburn
+- Peter Jeavons
+- Pierre Wolper
+
+2007
+====
+- Piero Bonatti
+- John-Jules Meyer
+- Cesare Tinelli
+
+2005
+====
+- Ian Horrocks
+- Diego Calvanese
+- Hans Jürgen Ohlbach
+- Erik Rosenthal
+
+2003
+====
+- Vito Michele Abrusci (Università di Roma Tre, Rome, Italy)
+- Thierry Coquand (Chalmers University of Technology, Göteborg, Sweden)
+- Johann Schumann (NASA Ames Research Center, Moffett Field, CA)
+
+2002
+====
+- Matthias Baaz
+- Dale Miller
+
+2000
+====
+- Franz Baader
+- Melvin Fitting
+- Alasdair Urquhart
+
+1999: Randy Bryant, David S. Warren
+1998: G. de Bruijn, Alan Bundy, Edmund Clarke
+1997: Ryuzo Hasegawa, Grigori Mints
+1996: Peter Andrews, Dov Gabbay
+1995: Wolfgang Bibel, Ricardo Caferra, Erik Rosenthal (banquet speech)
+1994: Jaakko Hintikka, Robert Kowalski
+1993: Melvin Fitting, Mark Stickel
+1992: Donald W. Loveland
+
+
+IJCAR
+=====
+
+2024
+====
+- Jeremy Avigad, Carnegie Mellon University, USA
+- Laura Kovacs, TU Wien, Austria
+- Geoff Sutcliffe, University of Miami, USA
+
+2022
+====
+- Elvira Albert
+- Gilles Dowek
+- Aarti Gupta (FLoC keynote)
+
+2020
+====
+- John Harrison (joint with FSCD)
+- René Thiemann (joint with FSCD)
+- Clark Barrett
+- Elaine Pimentel
+- Rizica Piskac
+
+2018
+====
+- Erika Ábrahám
+- Martin Giese
+
+2016
+====
+- Arnon Avron
+- Gilles Barthe
+- Sumit Gulwani
+- André Platzer
+
+2014
+====
+- Ken McMillan
+- Rajeev Goré
+
+2012
+====
+- Yuri Matiyasevich
+- Robert Nieuwenhuis
+- Nicole Schweikardt
+- Nikolaj Bjorner
+
+2010
+====
+- David Basin (FLoC)
+- Johan van Benthem
+- Deepak Kapur (FLoC)
+- Leonardo de Moura
+
+2008
+====
+- Hubert Comon-Lundh
+- Nachum Dershowitz
+- Aarti Gupta
+- Carsten Lutz
+
+2006
+====
+- Bruno Buchberger
+- Adnan Darwich
+- Dale Miller
+- David Dill (CAV/IJCAR/ICLP).
+
+2004
+====
+- Georg Gottlob
+- Jose Meseguer
+- Wolfgang Weispfenning
+
+2001
+====
+- Neil Jones
+- Larry Paulson
+- Helmut Schwichtenberg
+- Andrei Voronkov
+- Doron Zeilberger
+
+

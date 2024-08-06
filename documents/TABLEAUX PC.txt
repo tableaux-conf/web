@@ -1,0 +1,217 @@
+2023
+====
+Program Committee
+Bahareh Afshari (University of Gothenburg & University of Amsterdam)
+Carlos Areces (FaMAF - Universidad Nacional de Córdoba)
+Peter Baumgartner (Data61/CSIRO)
+Serenella Cerrito (IBISC, Univ Evry, Université Paris-Saclay)
+Kaustuv Chaudhuri (INRIA)
+Anupam Das (University of Birmingham)
+Stéphane Demri (CNRS, LMF, ENS Paris-Saclay)
+Clare Dixon (University of Manchester)
+José Espírito Santo (University of Minho)
+Christian Fermüller (Technische Universität Wien)
+Camillo Fiorentini (Università degli Studi di Milano)
+Ulrich Furbach (University of Koblenz)
+Didier Galmiche (Université de Lorraine, CNRS, LORIA)
+Silvio Ghilardi (Università degli Studi di Milano)
+Marianna Girlando (University of Amsterdam)
+Stéphane Graham-Lengrand (SRI International)
+Charles Grellois (Bordeaux INP)
+Andrzej Indrzejczak (University of Lodz)
+Cezary Kaliszyk (University of Innsbruck)
+Hidenori Kurokawa (Kanazawa University)
+Stepan Kuznetsov (Steklov Mathematical Institute, RAS)
+Timo Lang (University College London)
+Sonia Marin (University of Birmingham)
+Neil Murray (Emeritus, University at Albany - SUNY)
+Cláudia Nalon (University of Brasília)
+Sara Negri (University of Genoa)
+Eugenio Orlandelli (University of Bologna)
+Jens Otten (University of Oslo)
+Alessandra Palmigiano (Vrije Universiteit Amsterdam)
+Dirk Pattinson (The Australian National University)
+Nicolas Peltier (CNRS - LIG)
+Frank Pfenning (Carnegie Mellon University )
+Elaine Pimentel (University College London)
+Gian Luca Pozzato (Università di Torino)
+Revantha Ramanayake (University of Groningen)
+Michael Rawson (Technische Universität Wien)
+Reuben Rowe (Royal Holloway University of London)
+Katsuhiko Sano (Hokkaido University)
+Lutz Straßburger (Inria Saclay)
+Thomas Studer (University of Bern)
+Josef Urban (Czech Technical University in Prague)
+Yoni Zohar (Bar-Ilan University)
+Zsolt Zombori (Alfréd Rényi Institute of Mathematics)
+Hans de Nivelle (Nazarbayev University)
+PC Chairs
+Revantha Ramanayake (University of Groningen)
+Josef Urban (Czech Technical University in Prague)
+Local Organizers
+Karel Chvalovský (Czech Technical University in Prague)
+Jan Jakubův (Czech Technical University in Prague)
+Martin Suda (Czech Technical University in Prague)
+Josef Urban (Czech Technical University in Prague)
+Cezary Kaliszyk (University of Innsbruck, Austria)
+
+2021
+====
+PROGRAM COMMITTEE
+Bahareh Afshari (University of Amsterdam, Netherlands, and University of Gothenburg, Sweden)
+Carlos Areces (Universidad Nacional de Córdoba, Argentina)
+Arnon Avron (Tel-Aviv University, Israel)
+Nick Bezhanishvili (University of Amsterdam, Netherlands)
+Patrick Blackburn (University of Roskilde, Denmark)
+Serenella Cerrito (Université Paris-Saclay, Univ Evry, France)
+Kaustuv Chaudhuri (Inria, France)
+Liron Cohen (Ben-Gurion University, Israel)
+Anupam Das (University of Birmingham, UK)
+Stéphane Demri (CNRS, France)
+Hans de Nivelle (Nazarbayev University, Kazakhstan)
+Valeria de Paiva (Topos Institute Berkeley, USA)
+Clare Dixon (University of Manchester, UK)
+Christian Fermüller (TU Wien, Austria)
+Didier Galmiche (Université de Lorraine, France)
+Silvio Ghilardi (Università degli Studi di Milano, Italy)
+Rajeev Goré (Australian National University, Australia)
+Andrzej Indrzejczak (University of Łódź, Poland)
+Hidenori Kurokawa (Kanazawa University, Japan)
+Stepan Kuznetsov (Russian Academy of Sciences, Russia)
+Björn Lellmann (SBA Research, Austria)
+Stéphane Graham-Lengrand (SRI International, USA)
+George Metcalfe (University of Bern, Switzerland)
+Neil Murray (University At Albany, USA)
+Cláudia Nalon (Universidade de Brasília, Brazil)
+Sara Negri (University of Genoa, Italy)
+Nicola Olivetti (Aix-Marseille University, France)
+Eugenio Orlandelli (University of Bologna, Italy)
+Jens Otten (University of Oslo, Norway)
+Alessandra Palmigiano (Vrije Universiteit Amsterdam, Netherlands)
+Dirk Pattinson (Australian National University, Australia)
+Frank Pfenning (Carnegie Mellon University, USA)
+Elaine Pimentel (Federal University of Rio Grande do Norte, Brazil)
+Andrei Popescu (University of Sheffield, UK)
+Gian Luca Pozzato (University of Turin, Italy)
+Giselle Reis (Carnegie Mellon University, Qatar)
+Reuben Rowe (Royal Holloway, UK)
+José Espírito Santo (University of Minho, Portugal)
+Lutz Straßburger (Inria, France)
+Josef Urban (Czech Technical University in Prague, Czech Republic)
+
+PC CHAIRS
+Anupam Das (University of Birmingham, UK)
+Sara Negri (University of Genoa, Italy)
+
+LOCAL ORGANISATION
+Kate Campbell
+Gianluca Curzi
+Anupam Das
+Marianna Girlando
+Suman Khan
+Sonia Marin
+
+2019
+====
+PROGRAM COMMITTEE
+Peter Baumgartner 
+Maria Paola Bonacina 
+James Brotherston 
+Serenella Cerrito 
+Agata Ciabattoni 
+Anupam Das
+Clare Dixon
+Camillo Fiorentini 
+Pascal Fontaine
+Didier Galmiche
+Martin Giese
+Laura Giordano
+Rajeev Goré
+Stéphane Graham-Lengrand 
+Reiner Hähnle
+Ori Lahav
+Tomer Libal
+George Metcalfe 
+Dale Miller 
+Leonardo de Moura 
+Neil Murray
+Cláudia Nalon
+Sara Negri
+Hans de Nivelle 
+Nicola Olivetti
+Jens Otten
+Valeria de Paiva 
+Nicolas Peltier 
+Elaine Pimentel 
+Francesca Poggiolesi 
+Andrei Popescu 
+Gian Luca Pozzato 
+Giles Reger
+Giselle Reis
+Renate Schmidt 
+Viorica Sofronie-Stokkermans 
+Alwen Tiu
+Sophie Tourret
+Dmitriy Traytel 
+Josef Urban 
+Luca Viganö 
+Uwe Waldmann
+Bruno Woltzenlogel Paleo
+Program Chairs
+Serenella Cerrito 
+Andrei Popescu
+Local Organization
+Kelly Androutsopoulos 
+Jaap Boender
+Michele Bottone 
+Florian Kammueller 
+Rajagopal Nagarajan 
+Andrei Popescu
+(Conference Chair) Franco Raimondi
+
+2017
+====
+PROGRAM COMMITTEE
+Peter Baumgartner (Data61/CSIRO, Australia)
+Maria Paola Bonacina (Università degli Studi di Verona, Italy)
+Laura Bozzelli (Universidad Politécnica de Madrid, Spain)
+Torben Braüner (Roskilde University, Denmark)
+Serenella Cerrito (Ibisc, Université d'Evry Val d'Essonne, France)
+Agata Ciabattoni (Technische Universität Wien, Austria)
+Clare Dixon (University of Liverpool, UK)
+Pascal Fontaine (LORIA, INRIA, Université de Lorraine, France)
+Didier Galmiche (LORIA, Université de Lorraine, France)
+Martin Giese (Universitetet i Oslo, Norway)
+Laura Giordano (DISIT, Università del Piemonte Orientale, Italy)
+Rajeev Goré (The Australian National University, Australia)
+Volker Haarslev (Concordia University, Canada)
+George Metcalfe (Universität Bern, Switzerland)
+Angelo Montanari (Università degli Studi di Udine, Italy)
+Barbara Morawska (Ahmedabad University, India)
+Boris Motik (University of Oxford, UK)
+Leonardo de Moura (Microsoft Research, USA)
+Neil Murray (SUNY at Albany, USA)
+Cláudia Nalon (Universidade de Brasília, Brazil) (Co-Chair)
+Linh Anh Nguyen (Uniwersytet Warszawski, Poland)
+Hans de Nivelle (Uniwersytet Wrocławski, Poland)
+Nicola Olivetti (LSIS, Aix-Marseille Université, France)
+Jens Otten (Universitetet i Oslo, Norway)
+Valeria de Paiva (Nuance Communications, USA)
+Nicolas Peltier (CNRS, Laboratoire d'Informatique de Grenoble, France)
+Elaine Pimentel (Universidade Federal do Rio Grande do Norte, Brazil)
+Giselle Reis (Carnegie Mellon University-Qatar, Qatar)
+Philipp Rümmer (Uppsala Universitet, Sweden)
+Katsuhiko Sano (Hokkaido University, Japan)
+Renate Schmidt (The University of Manchester, UK) (Co-Chair)
+Cesare Tinelli (The University of Iowa, USA)
+Alwen Tiu (Nanyang Technological University, Singapore)
+David Toman (University of Waterloo, Canada)
+Josef Urban (České vysoké učení technické v Praze, Czech Republic)
+
+Organising Committee:
+
+Cláudia Nalon (CIC/UnB)
+Daniele Nantes Sobrinho (MAT/UnB)
+Elaine Pimentel (DMAT/UFRN)
+João Marcos (DIMAp/UFRN)
+
