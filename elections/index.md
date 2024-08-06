@@ -47,7 +47,7 @@ the original goals of research.
 ### Elaine Pimentel
 This statement is for my re-election to the TABLEAUX Steering Committee (TSC). It’s been an honor to serve as the Chair of TSC, and I’m excited about the possibility of contributing for one more term.
 
-My journey with TABLEAUX started back in 2002 when I presented my first paper at the conference in Copenhagen. Since then, I’ve been an active and passionate member of our community, deeply involved in research, collaboration, and sharing knowledge. My main research focus is proof theory, and I've always aimed to increase the visibility and representation of this area in the community.
+My journey with TABLEAUX started back in 2002 when my very first paper was at the conference in Copenhagen (joint work with Dale Miller, who was one of the invited speakers in that edition). Since then, I’ve been an active and passionate member of our community, deeply involved in research, collaboration, and sharing knowledge. My main research focus is proof theory, and I've always aimed to increase the visibility and representation of this area in the community.
 
 As Chair of the TSC, I’ve taken on various initiatives, like promoting the SC elections, building a new web page, updating our members list, choosing the venue for the 2025 edition, and starting discussions about our publication venue. I’ve also worked hard to create a welcoming and inclusive environment for everyone.
 
