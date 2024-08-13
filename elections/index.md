@@ -43,15 +43,73 @@ the original goals of research.
   themselves in their own institute. 
 
 ### Dirk Pattinson
+My current research interests are modal and non-classical logics,
+with a slant towards 'Logic Engineering', i.e. meta-level properties
+that apply to a number of different formalisms.  
+
+I am a signatory of the Declaration of Research Assessment (DORA:
+https://sfdora.org) and the pledge for sustainable research in
+theoretical computer science (TCS4F: https://tcs4f.org). 
+
+My goals for the future of Tableaux are:
+
+COMMUNITY.
+
+I have always found the Tableaux community to be very friendly and inclusive and have enjoyed participating on a personal and scientific level. For the future:
+- Promote diversity and inclusion at all levels of the conference,
+  and reflect this in local organisation arrangements
+- Organise inclusive social events that cater to diverse interests
+  and preferences, to promote  networking and a sense of belonging
+  among all participants.
+- Analyse barriers to participation and evaluate counteracting
+  measures. 
+
+SUSTAINABILITY. 
+
+I am one of the organisers of the annual logic summer school at the
+Australian National University (https://comp.anu.edu.au/lss/) and we
+held a carbon neutral event last year. For Tableaux:
+- Implement eco-friendly practices, such as reducing paper usage,
+  promoting digital proceedings, and encouraging the use of
+  low-carbon transport and carbon offsetting.
+- Promote sustainability as a criterion for venue selection and
+  encourage collaboration with vendors and venues that promote
+  sustainability.
+- Be transparent and account for the carbon emissions caused by the tableaux
+  conference and aim for a carbon neutral conference.
+
+SCIENTIFIC RIGOUR.
+
+I have always greatly valued the high standards of rigour and the 
+quality of the review process in Tableaux.  To sustain this:
+- Recognise achievement continue to present awards for best
+  papers and outstanding contributions to the field. 
+- Liaise with our sister conferences to maintain high standards and
+  use publication outlets that are in the best interest of all our
+  communities
+- Put the interests of the community before publication metrics for
+  strategic decisions. 
+
+COLLABORATION.
+
+While fruitful collaboration arises through person to person
+contacts, there is a number of things we can do to help people meet:
+- Encourage building connections to other communities through
+  co-location, and  (joint) invited speakers.
+- Emphasise and recognise the breadth of research contributions
+  including e.g. tools, platforms and practice reports.
+- Recognise the role of research infrastructure that allows for
+  collaboration, such as competitions, standards, and archives. 
+
 
 ### Elaine Pimentel
 This statement is for my re-election to the TABLEAUX Steering Committee (TSC). It’s been an honor to serve as the Chair of TSC, and I’m excited about the possibility of contributing for one more term.
 
 My journey with TABLEAUX started back in 2002 when my very first paper was at the conference in Copenhagen (joint work with Dale Miller, who was one of the invited speakers in that edition). Since then, I’ve been an active and passionate member of our community, deeply involved in research, collaboration, and sharing knowledge. My main research focus is proof theory, and I've always aimed to increase the visibility and representation of this area in the community.
 
-As Chair of the TSC, I’ve taken on various initiatives, like promoting the SC elections, building a new web page, updating our members list, choosing the venue for the 2025 edition, and starting discussions about our publication venue. I’ve also worked hard to create a welcoming and inclusive environment for everyone.
+As Chair of the TSC, I’ve taken on various initiatives, like promoting the SC elections, building a new web page, updating our members list, choosing the venue for the 2025 edition, and starting discussions about our publication venue. I have also worked hard to create a welcoming and inclusive environment for everyone.
 
-If re-elected, I’ll continue to push for the interests of our community, especially in terms of enhancing our conference's visibility and supporting the professional growth of our members, with a particular focus on early-career researchers.
+If re-elected, I will continue to push for the interests of our community, especially in terms of enhancing our conference's visibility and supporting the professional growth of our members, with a particular focus on early-career researchers.
 
 ### Revantha Ramanayake
 My research centers on proof systems and the properties of non-classical logics. I consider TABLEAUX to be my home conference as it is the conference that aligns most closely with my research interests. Over the years, I have enjoyed contributing to the TABLEAUX community, including as PC co-chair for TABLEAUX 2023.
