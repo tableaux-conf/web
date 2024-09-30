@@ -18,12 +18,12 @@ Elected members:
     University of Birmingham (elected 2023)</li>
   <li> <a href="https://members.loria.fr/DGalmiche/">Didier Galmiche</a>,
        Université de Lorraine, CNRS, LORIA (elected 2023)</li>
-  <li> <a href="https://www.rug.nl/staff/d.r.s.ramanayake/?lang=en">Revantha Ramanayake</a>,
-        University of Groningen (elected 2024)</li>
   <li> <a href="http://www.de-nivelle.de/">Hans de Nivelle</a>,
        Nazarbayev University, vice-President (elected 2020, 2024)</li>
   <li> <a href="https://sites.google.com/site/elainepimentel/">Elaine Pimentel</a>,
        University College London, President (elected 2020, 2024)</li>
+  <li> <a href="https://www.rug.nl/staff/d.r.s.ramanayake/?lang=en">Revantha Ramanayake</a>,
+        University of Groningen (elected 2024)</li>
 </ul>
 
 Ex officio member:
