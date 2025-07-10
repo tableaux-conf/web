@@ -25,5 +25,5 @@ The next TABLEAUX will take place in Reykjavík, Iceland from September 27 to 29
 - Final version: 14 July 2025
 
 **Invited speakers:** 
-- [Kaustuv Chaudhuri] (https://chaudhuri.info/), LIX, Inria/École Polytechnique -- joint with [FroCoS] (https://icetcs.github.io/frocos-itp-tableaux25/frocos/
-- [Raheleh Jalali] (https://sites.google.com/view/rahelehjalali), University of Bath
+- [Kaustuv Chaudhuri](https://chaudhuri.info/), LIX, Inria/École Polytechnique -- joint with [FroCoS] (https://icetcs.github.io/frocos-itp-tableaux25/frocos/
+- [Raheleh Jalali](https://sites.google.com/view/rahelehjalali), University of Bath
