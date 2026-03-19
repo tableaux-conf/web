@@ -13,7 +13,7 @@ Related Methods (TABLEAUX) has been held every year since 1992.
 
 
 * [TABLEAUX 2025](https://icetcs.github.io/frocos-itp-tableaux25/tableaux/), Reykjavik, Iceland, 27-29 September 2025
-* [IJCAR 2024](https://merz.gitlabpages.inria.fr/2024-ijcar/), Haifa, Nancy, France, 1-6 July 2024<br /> (in 2024, TABLEAUX was part of the <i>International Joint Conference on Automated Reasoning</i>, IJCAR)
+* [IJCAR 2024](https://merz.gitlabpages.inria.fr/2024-ijcar/), Nancy, France, 1-6 July 2024<br /> (in 2024, TABLEAUX was part of the <i>International Joint Conference on Automated Reasoning</i>, IJCAR)
 * [TABLEAUX 2023](https://tableaux2023.tableaux-ar.org/), Prague, Czech Republic, 18-21 September 2023
 * [IJCAR 2022](https://easychair.org/smart-program/FLoC2022/IJCAR-index.html), Haifa, Israel, 8-10 August 2022<br /> (in 2022, TABLEAUX was part of the <i>International Joint Conference on Automated Reasoning</i>, IJCAR)
 * [TABLEAUX 2021](https://tableaux2021.org/), Birmingham, UK, 6-9 September 2021
