@@ -26,9 +26,11 @@ Elected members:
         University of Groningen (elected 2024)</li>
 </ul>
 
-Ex officio member:
+Ex officio members:
 
-<ul>
+<ul>  
+  <li><a href="https://cs.ioc.ee/~tarmo/">Tarmo Uustalu</a>
+    Reykjavik University (representative of TABLEAUX 2025)</li>
     <li><a href="http://www.cs.man.ac.uk/~schmidt/">Renate Schmidt</a>,
         University of Manchester (representative of IJCAR 2024)</li>
 </ul>
