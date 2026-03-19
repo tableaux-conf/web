@@ -10,11 +10,11 @@ hide_footer: true
 
 The International Joint Conference on Automated Reasoning (IJCAR) is the premier international venue on all aspects of automated reasoning. It is held biannually as a merger of leading events in automated reasoning:
 
-* CADE – Conference on Automated Deduction
-* FroCoS – Symposium on Frontiers of Combining Systems
-* TABLEAUX – Conference on Analytic Tableaux and Related Methods Topics
+* [CADE](https://cadeinc.org/) – Conference on Automated Deduction
+* [FroCoS](https://frocos.cs.uiowa.edu/) – Symposium on Frontiers of Combining Systems
+* [TABLEAUX](https://tableaux-conf.github.io/web/) – Conference on Analytic Tableaux and Related Methods Topics
 
-IJCAR 2026 will be held in Lisbon, Portugal, as part of the Federate Logic Conference FLoC from July 26 to July 29. [Click here](https://www.floc26.org/ijcar) to access the homepage. 
+[IJCAR 2026](https://www.floc26.org/ijcar) will be held in Lisbon, Portugal, as part of the Federate Logic Conference [FLoC](https://www.floc26.org/) from July 26 to July 29. 
 
 IJCAR 2026 invites submissions related to all aspects of automated or interactive logical reasoning, including foundations, implementations, and applications. Original research papers and descriptions/evaluations of working automated deduction systems or proof assistant systems are solicited.
 
