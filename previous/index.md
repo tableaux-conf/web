@@ -12,6 +12,7 @@ The International Conference on Automated Reasoning with Analytic Tableaux and
 Related Methods (TABLEAUX) has been held every year since 1992.
 
 
+* [IJCAR2026](https://www.floc26.org/ijcar), Lisbon, Portugal, 26-29 July, 2026<br /> (in 2026, TABLEAUX was part of the <i>International Joint Conference on Automated Reasoning</i>, IJCAR)
 * [TABLEAUX 2025](https://icetcs.github.io/frocos-itp-tableaux25/tableaux/), Reykjavik, Iceland, 27-29 September 2025
 * [IJCAR 2024](https://merz.gitlabpages.inria.fr/2024-ijcar/), Nancy, France, 1-6 July 2024<br /> (in 2024, TABLEAUX was part of the <i>International Joint Conference on Automated Reasoning</i>, IJCAR)
 * [TABLEAUX 2023](https://tableaux2023.tableaux-ar.org/), Prague, Czech Republic, 18-21 September 2023
