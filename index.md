@@ -42,5 +42,5 @@ Topics of interest include (but are not restricted to):
 * systems, tools, implementations and applications (e.g., verification)
 
 
-_Contact_: You can contact the members of the Steering Committee by [e-mail](mailto:sc@tableaux-ar.org). 
+_Contact_: You can contact the members of the Steering Committee by [e-mail](mailto:e.pimentel@ucl.ac.uk). 
 
