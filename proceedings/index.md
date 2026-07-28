@@ -11,6 +11,33 @@ hide_footer: true
 Starting in 1995, the proceedings have been published in Springer's LNCS/LNAI series.
 
 <ul>
+    <li>IJCAR 2026: <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdoi.org%2F10.1007%2F978-3-032-32589-1&data=05%7C02%7Ce.pimentel%40ucl.ac.uk%7C7ed8428d9bfc4b98e83408deec181243%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C639207785286256122%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=SCyOjrTrBvLm7j5haeZQhAOXyqKREOdWMUfVDUzrvoY%3D&reserved=0">
+Biere, A.; Lutz, C.; Negri, S. (Eds.):
+<i>Automated Reasoning, Part I.</i> Springer, LNCS 16688,
+2024. 978-3-032-32588-4.</a>
+  <br />
+<a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdoi.org%2F10.1007%2F978-3-032-32592-1&data=05%7C02%7Ce.pimentel%40ucl.ac.uk%7C7ed8428d9bfc4b98e83408deec181243%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C639207785286271737%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=SSExZRPm1kQYnqL6z8ub64scCAzEr0nbkdyN0TVucsQ%3D&reserved=0">
+Biere, A.; Lutz, C.; Negri, S. (Eds.):
+<i>Automated Reasoning, Part II.</i> Springer, LNCS 16689,
+2024. 978-3-032-32591-4.</a>
+  </li>
+
+  <li>TABLEAUX 2025:
+<a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdoi.org%2F10.1007%2F978-3-032-06085-3&data=05%7C02%7Ce.pimentel%40ucl.ac.uk%7C7ed8428d9bfc4b98e83408deec181243%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C639207785286281115%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=FVJtLx%2Brjd90EH6z0N3hvN5g2uwhAFEajzhCObtmDY8%3D&reserved=0">
+Pozzato, G. L.; Uustalu, T. (Eds.): <i>Automated Reasoning with
+Analytic Tableaux and Related Methods.</i> Springer, LNCS 15980, 2026.
+978-3-032-06084-6.</a> </li>
+
+  <li>IJCAR 2024: <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdoi.org%2F10.1007%2F978-3-031-63498-7&data=05%7C02%7Ce.pimentel%40ucl.ac.uk%7C7ed8428d9bfc4b98e83408deec181243%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C639207785286290230%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=De0v1F7uXmckc%2FBMgyRwBe2LH8FrqEDXNgrKFZdA2fI%3D&reserved=0">
+Benzmüller, C.; Heule, M. J. H.; Schmidt, R. A. (Eds.):
+<i>Automated Reasoning, Part I.</i> Springer, LNCS 14739,
+2024. 978-3-031-63497-0.</a>
+  <br />
+<a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdoi.org%2F10.1007%2F978-3-031-63501-4&data=05%7C02%7Ce.pimentel%40ucl.ac.uk%7C7ed8428d9bfc4b98e83408deec181243%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C639207785286299120%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=UoO9v55jIL6MM9wwJsxz3eLktM8IvrqeHhvmCi%2BHCJk%3D&reserved=0">
+Benzmüller, C.; Heule, M. J. H.; Schmidt, R. A. (Eds.):
+<i>Automated Reasoning, Part II.</i> Springer, LNCS 14740,
+2024. 978-3-031-63500-7.</a>
+  </li>
   <li>TABLEAUX 2023: <a
  href="https://link.springer.com/book/10.1007/978-3-031-43513-3"> Ramanayake, R.; Urban J. (Eds.): <i>Automated Reasoning with Analytic Tableaux and
 Related Methods.</i> Springer-Verlag, LNCS 14278, 2023.
