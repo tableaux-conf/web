@@ -24,7 +24,12 @@ These are the last Best Paper and Best Student Paper awards:
 
 <ul>
     <li>2025: 
-  </li>
+        <ul>
+            <li> Best paper: Analytic Proofs for Tense Logic by Agata Ciabattoni, Timo Lang and Revantha Ramanayake
+        </li>
+            <li> Best Student Paper: Interpolation for Converse PDL by Johannes Kloibhofer, Francisco Trucco Dalmas and Yde Venema
+            </li>
+        </ul>
   <li>2023: 
   </li>
 </ul> 
