@@ -16,7 +16,7 @@ The Best Paper Award recognizes the paper judged to have made the most significa
 
 ### Best Student Paper Award
 
-The Best Student Paper Award recognizes an outstanding contribution whose primary author is a student. To be eligible, the first author must be a student at the time of submission and must present the paper at the conference. Student papers are evaluated according to the same criteria as all other papers—scientific quality, originality, significance, and clarity—and remain eligible for the Best Paper Award as well.
+The Best Student Paper Award recognizes an outstanding contribution whose primary authors are students. To be eligible, the first author must be a student at the time of submission and must present the paper at the conference. Student papers are evaluated according to the same criteria as all other papers—scientific quality, originality, significance, and clarity—and remain eligible for the Best Paper Award as well.
 
 The awards are announced during the conference closing session.
 
