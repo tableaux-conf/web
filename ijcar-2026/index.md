@@ -32,4 +32,5 @@ IJCAR 2026 invites submissions related to all aspects of automated or interactiv
 - Conference: July 26-29, 2026
 
 **Invited speakers:** 
-- TBA
+- [Brigitte Pientka](https://cs.mcgill.ca/~bpientka/)
+- [Viktor Kunčak](https://lara.epfl.ch/~kuncak/)
