@@ -31,5 +31,11 @@ These are the last Best Paper and Best Student Paper awards:
             </li>
         </ul>
   <li>2023: 
+      <ul>
+          <li> Best paper: A new calculus for intuitionistic Strong Löb logic: strong termination and cut-elimination, formalised by Ian Shillito, Iris van der Giessen, Rajeev Gore and Rosalie Iemhoff
+          </li>
+          <li> Best Junior Researcher Paper: Ill-founded Proof Systems For Intuitionistic Linear-time Temporal Logic by Bahareh Afshari, Lide Grotenhuis, Graham Leigh and Lukas Zenger
+          </li>
+      </ul>
   </li>
 </ul> 
