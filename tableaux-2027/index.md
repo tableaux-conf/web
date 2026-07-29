@@ -12,7 +12,7 @@ TABLEAUX is the main international conference at which research on all aspects--
 
 The next TABLEAUX will take place in Marseille, France from September 29 to October 1 2027.
 
-[Click here](https://icetcs.github.io/frocos-itp-tableaux25/tableaux/) to access the homepage. 
+[Click here](https://tableaux-frocos27.lis-lab.fr/) to access the homepage. 
 
 **Program Chairs:**
 - [Kaustuv Chaudhuri]([https://www.di.unito.it/~pozzato/oldws/index.html](https://chaudhuri.info/)), Inria Saclay
@@ -20,10 +20,10 @@ The next TABLEAUX will take place in Marseille, France from September 29 to Octo
 - [Nicola Olivetti]([https://cs.ioc.ee/~tarmo/](https://pageperso.lis-lab.fr/nicola.olivetti/)), Aix Marseille University
   
 **Important dates:**
-- Submission of title and abstract: 9 May 2027
-- Submission of paper: 14 May 2027
-- Notification: 30 June 2027
-- Final version: 14 July 2027
+- Submission of title and abstract: April/May 2027
+- Submission of paper: April/May 2027
+- Notification: June 2027
+- Final version: July 2027
 
 **Invited speakers:** 
 - TBA
