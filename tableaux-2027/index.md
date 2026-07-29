@@ -12,7 +12,7 @@ TABLEAUX is the main international conference at which research on all aspects--
 
 The next TABLEAUX will take place in Marseille, France from September 29 to October 1 2027.
 
-[Click here](https://tableaux-frocos27.lis-lab.fr/) to access the homepage. 
+[Click here](https://tableaux-frocos27.lis-lab.fr/tableaux/index.html) to access the homepage. 
 
 **Program Chairs:**
 - [Kaustuv Chaudhuri]([https://www.di.unito.it/~pozzato/oldws/index.html](https://chaudhuri.info/)), Inria Saclay
