@@ -12,15 +12,15 @@ The International Conference on Automated Reasoning with Analytic Tableaux and
 Related Methods (TABLEAUX) has been held every year since 1992.
 
 
-* [IJCAR2026](https://www.floc26.org/ijcar), Lisbon, Portugal, 26-29 July, 2026<br /> (in 2026, TABLEAUX was part of the <i>International Joint Conference on Automated Reasoning</i>, IJCAR)
+* [IJCAR2026](https://www.floc26.org/ijcar), Lisbon, Portugal, 26-29 July, 2026<br /> (in 2026, TABLEAUX was part of the <i>International Joint Conference on Automated Reasoning</i>, IJCAR and [FLoC 2026](https://www.floc26.org/)
 * [TABLEAUX 2025](https://icetcs.github.io/frocos-itp-tableaux25/tableaux/), Reykjavik, Iceland, 27-29 September 2025
 * [IJCAR 2024](https://merz.gitlabpages.inria.fr/2024-ijcar/), Nancy, France, 1-6 July 2024<br /> (in 2024, TABLEAUX was part of the <i>International Joint Conference on Automated Reasoning</i>, IJCAR)
 * [TABLEAUX 2023](https://tableaux2023.tableaux-ar.org/), Prague, Czech Republic, 18-21 September 2023
-* [IJCAR 2022](https://easychair.org/smart-program/FLoC2022/IJCAR-index.html), Haifa, Israel, 8-10 August 2022<br /> (in 2022, TABLEAUX was part of the <i>International Joint Conference on Automated Reasoning</i>, IJCAR)
+* [IJCAR 2022](https://easychair.org/smart-program/FLoC2022/IJCAR-index.html), Haifa, Israel, 8-10 August 2022<br /> (in 2022, TABLEAUX was part of the <i>International Joint Conference on Automated Reasoning</i>, IJCAR and [FLoC 2022](https://www.floc2022.org/)
 * [TABLEAUX 2021](https://tableaux2021.org/), Birmingham, UK, 6-9 September 2021
 * [IJCAR 2020](https://ijcar2020.org/), virtual/online, 29 June - 6 July 2020<br /> (in 2020, TABLEAUX was part of the <i>International Joint Conference on Automated Reasoning</i>, IJCAR)
 * [TABLEAUX 2019](https://tableaux2019.org/), London, UK, 3-5 September 2019
-* [IJCAR 2018](http://ijcar2018.org/), Oxford, UK, 14-17 July 2018<br /> (in 2018, TABLEAUX was part of the <i>International Joint Conference on Automated Reasoning</i>, IJCAR)
+* [IJCAR 2018](http://ijcar2018.org/), Oxford, UK, 14-17 July 2018<br /> (in 2018, TABLEAUX was part of the <i>International Joint Conference on Automated Reasoning</i>, IJCAR and [FLoC 2018](https://www.floc2018.org/)
 * [TABLEAUX 2017](http://tableaux2017.cic.unb.br/), Bras&iacute;lia, Brazil, 25-28 September 2017
 * [IJCAR 2016](http://www.uc.pt/en/congressos/ijcar2016/), Coimbra, Portugal, 27 June - 2 July 2016<br /> (in 2016, TABLEAUX was part of the <i>International Joint Conference on Automated Reasoning</i>, IJCAR)
 * [TABLEAUX 2015](http://tableaux2015.ii.uni.wroc.pl/), Wroc&#322;aw, Poland, 19-24 September 2015
